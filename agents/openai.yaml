@@ -1,0 +1,4 @@
+interface:
+  display_name: "xAct Research"
+  short_description: "Wolfram and xAct tensor-research workflow"
+  default_prompt: "Use $xact-research to develop and verify an xAct tensor calculation."

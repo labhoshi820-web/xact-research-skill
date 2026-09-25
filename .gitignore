@@ -1,0 +1,27 @@
+# Public allowlist: ignore everything unless explicitly included below.
+*
+
+!.gitignore
+!LICENSE
+!README.md
+!README.en.md
+!SKILL.md
+
+!agents/
+agents/*
+!agents/openai.yaml
+
+!assets/
+assets/*
+!assets/templates/
+assets/templates/*
+!assets/templates/*.wl
+
+!references/
+references/*
+!references/*.md
+
+!scripts/
+scripts/*
+!scripts/*.sh
+!scripts/*.wl
